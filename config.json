@@ -44,10 +44,10 @@
       "host": "127.0.0.1",
       "port": 3306,
       "user": "root",
-      "password": "Hoang1182003",
+      "password": "admin",
       "database": {
-        "data": "data_server",
-        "account": "data_acc"
+        "data": "nro_data",
+        "account": "nro_acc"
       }
     }
   },
